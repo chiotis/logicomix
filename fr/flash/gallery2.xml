@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+   <list name="" link="">
+       <thumb>images/gallery2/thumbs/default.jpg</thumb>
+       <content>images/gallery2/default.jpg</content>
+   </list>
+
+   <list name="click to scroll down" link="images/gallery2/large/g3.html">
+       <thumb>images/gallery2/thumbs/Russell.jpg</thumb>
+       <content>images/gallery2/Russell.jpg</content>
+   </list>
+
+
+   <list name="click to scroll down" link="images/gallery2/large/g1.html">
+       <thumb>images/gallery2/thumbs/Mathimatikoi.jpg</thumb>
+       <content>images/gallery2/Mathimatikoi.jpg</content>
+   </list>
+
+   <list name="click to scroll down" link="images/gallery2/large/g2.html" >
+       <thumb>images/gallery2/thumbs/ProsopaAthens.jpg</thumb>
+       <content>images/gallery2/ProsopaAthens.jpg</content>
+   </list>
+
+   <list name="click to scroll down" link="images/gallery2/large/g4.html">
+       <thumb>images/gallery2/thumbs/Women.jpg</thumb>
+       <content>images/gallery2/Women.jpg</content>
+   </list>
+
+</item>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+   <list name="" link="">
+       <thumb>images/gallery3/thumbs/default.jpg</thumb>
+       <content>images/gallery3/default.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g1.html">
+       <thumb>images/gallery3/thumbs/p280.jpg</thumb>
+       <content>images/gallery3/p280.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g2.html" >
+       <thumb>images/gallery3/thumbs/p209.jpg</thumb>
+       <content>images/gallery3/p209.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g3.html">
+       <thumb>images/gallery3/thumbs/p35.jpg</thumb>
+       <content>images/gallery3/p35.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g4.html">
+       <thumb>images/gallery3/thumbs/p203.jpg</thumb>
+       <content>images/gallery3/p203.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g5.html">
+       <thumb>images/gallery3/thumbs/p261.jpg</thumb>
+       <content>images/gallery3/p261.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g6.html">
+       <thumb>images/gallery3/thumbs/p186.jpg</thumb>
+       <content>images/gallery3/p186.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g7.html">
+       <thumb>images/gallery3/thumbs/p181.jpg</thumb>
+       <content>images/gallery3/p181.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g8.html">
+       <thumb>images/gallery3/thumbs/p103.jpg</thumb>
+       <content>images/gallery3/p103.jpg</content>
+   </list>
+   <list name="click to enlarge" link="images/gallery3/large/g9.html">
+       <thumb>images/gallery3/thumbs/p42.jpg</thumb>
+       <content>images/gallery3/p42.jpg</content>
+   </list>               
+
+</item>

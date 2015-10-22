@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+   <list name="" link="">
+       <thumb>images/gallery1/thumbs/default.jpg</thumb>
+       <content>images/gallery1/default.jpg</content>
+   </list>
+   <list name="Acropolis Museum " link="images/gallery1/large/g1.html">
+       <thumb>images/gallery1/thumbs/Acropolis Museum.jpg</thumb>
+       <content>images/gallery1/Acropolis Museum.jpg</content>
+   </list>
+   <list name="Street in Cambridge" link="images/gallery1/large/g2.html" >
+       <thumb>images/gallery1/thumbs/Cambridge Street.jpg</thumb>
+       <content>images/gallery1/Cambridge Street.jpg</content>
+   </list>
+   <list name="Cambridge University" link="images/gallery1/large/g3.html">
+       <thumb>images/gallery1/thumbs/Cambridge with Wittgenstein.jpg</thumb>
+       <content>images/gallery1/Cambridge with Wittgenstein.jpg</content>
+   </list>
+   <list name="Cantor's Asylum" link="images/gallery1/large/g4.html">
+       <thumb>images/gallery1/thumbs/Cantor's Institution.jpg</thumb>
+       <content>images/gallery1/Cantor's Institution.jpg</content>
+   </list>
+   <list name="Evripidou Street" link="images/gallery1/large/g5.html">
+       <thumb>images/gallery1/thumbs/China Import Export.jpg</thumb>
+       <content>images/gallery1/China Import Export.jpg</content>
+   </list>
+   <list name="River in Cambridge" link="images/gallery1/large/g6.html">
+       <thumb>images/gallery1/thumbs/City of Reason.jpg</thumb>
+       <content>images/gallery1/City of Reason.jpg</content>
+   </list>
+   <list name="Frege's House" link="images/gallery1/large/g7.html">
+       <thumb>images/gallery1/thumbs/Frege'sHouse.jpg</thumb>
+       <content>images/gallery1/Frege'sHouse.jpg</content>
+   </list>
+   <list name="Bridge in Halle" link="images/gallery1/large/g8.html">
+       <thumb>images/gallery1/thumbs/Halle Bridge.jpg</thumb>
+       <content>images/gallery1/Halle Bridge.jpg</content>
+   </list>
+   <list name="Halle University" link="images/gallery1/large/g9.html">
+       <thumb>images/gallery1/thumbs/Halle University.jpg</thumb>
+       <content>images/gallery1/Halle University.jpg</content>
+   </list>
+   <list name="Halle Statue" link="images/gallery1/large/g10.html">
+       <thumb>images/gallery1/thumbs/Handel Statue.jpg</thumb>
+       <content>images/gallery1/Handel Statue.jpg</content>
+   </list>
+   <list name="Athens Metro" link="images/gallery1/large/g11.html">
+       <thumb>images/gallery1/thumbs/Metro.jpg</thumb>
+       <content>images/gallery1/Metro.jpg</content>
+   </list>
+   <list name="Mourning Scene at the Lodge" link="images/gallery1/large/g12.html">
+       <thumb>images/gallery1/thumbs/Mourning at Pembroke Lodge.jpg</thumb>
+       <content>images/gallery1/Mourning at Pembroke Lodge.jpg</content>
+   </list>
+   <list name="Pembroke Lodge" link="images/gallery1/large/g13.html">
+       <thumb>images/gallery1/thumbs/Pembroke Lodge.jpg</thumb>
+       <content>images/gallery1/Pembroke Lodge.jpg</content>
+   </list>
+   <list name="Presidential Guard" link="images/gallery1/large/g14.html">
+       <thumb>images/gallery1/thumbs/Presidential Guard.jpg</thumb>
+       <content>images/gallery1/Presidential Guard.jpg</content>
+   </list>
+   <list name="Schlick Stairs" link="images/gallery1/large/g15.html">
+       <thumb>images/gallery1/thumbs/Schlick Stairs.jpg</thumb>
+       <content>images/gallery1/Schlick Stairs.jpg</content>
+   </list>
+   <list name="U.S. University Gate" link="images/gallery1/large/g16.html">
+       <thumb>images/gallery1/thumbs/US University Gate.jpg</thumb>
+       <content>images/gallery1/US University Gate.jpg</content>
+   </list>   
+  
+</item>
